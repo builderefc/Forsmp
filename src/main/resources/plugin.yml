@@ -1,0 +1,4 @@
+name: MyPlugin
+version: 1.0
+main: me.myplugin.Main
+api-version: '1.21'
