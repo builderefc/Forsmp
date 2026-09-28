@@ -1,0 +1,3 @@
+server:
+  ip: "play.example.ru"
+  port: 25565
