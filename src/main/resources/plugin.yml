@@ -1,4 +1,4 @@
-name: MyPlugin
+name: SMPMenu
 version: 1.0
-main: me.myplugin.Main
+main: me.smp.menu.SMPMenu
 api-version: '1.21'
